@@ -1,5 +1,5 @@
 ---
-- hosts: myhosts
+- hosts: hosts
   connection: local
   name: Get system inventory
   gather_facts: False
